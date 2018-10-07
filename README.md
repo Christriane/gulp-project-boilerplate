@@ -5,7 +5,7 @@ a couple of YouTube and Medium tutorials so there is probably some redundancy an
 
 ## To Run Project
 ```
-> git clone 
+> git clone https://github.com/Christriane/gulp-project-boilerplate.git
 > yarn
 > gulp watch
 > Enjoy
